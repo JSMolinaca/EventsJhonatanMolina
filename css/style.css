@@ -1,0 +1,45 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 600px;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.result {
+    font-weight: bold;
+    color: #007bff;
+}
+
+.nota {
+    margin: 10px 0;
+    padding: 15px;
+    background-color: #e9ecef;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.nota-realizada {
+    text-decoration: line-through;
+    color: grey;
+}
+
+.m-10 {
+    margin: 10px;
+}
+
+.button {
+    color: #f8f9fa;
+    background-color: black;
+    padding: 20px;
+    border-radius: 50px;
+}
+
+.img-body {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/012/697/298/original/3d-javascript-logo-design-free-png.png);
+}
